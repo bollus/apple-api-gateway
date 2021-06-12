@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "apple.api-url",
+      "type": "java.lang.String",
+      "description": "Description for apple.api-url."
+    }
+  ]
+}
